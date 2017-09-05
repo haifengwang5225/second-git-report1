@@ -1,1 +1,2 @@
-# second-git-report1
+# this is my first git Repo
+I like this.
